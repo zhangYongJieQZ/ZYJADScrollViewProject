@@ -1,1 +1,2 @@
 # ZYJADScrollViewProject
+滚动广告视图播放：添加了SDWebImage去加载图片,简单的demo
